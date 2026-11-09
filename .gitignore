@@ -1,0 +1,11 @@
+*.html
+*.swp
+*.*~
+*.klc
+.lab/*
+.lab2/*
+.chiv/*
+.mylog
+.vimrc
+.tmp
+

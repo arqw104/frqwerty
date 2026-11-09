@@ -1,0 +1,14 @@
+#
+# minimal ~/.xsessionrc for LXDE 
+
+# Arabic-English with QWERTY keyboard.
+setxkbmap "us,frs,ars" -variant ",," -option "grp:lwin_toggle,grp_led:caps";
+
+# Arabic-French with QWERTY keyboard.
+#setxkbmap "frs,ars" -variant "," -option "grp:lwin_toggle,grp_led:caps";
+
+# variant, numbers with "Shift_key"
+#setxkbmap "frs,ars" -variant "l," -option "grp:lwin_toggle,grp_led:caps";
+
+# after making changes, you ll need to invoke
+# logout or reboot 

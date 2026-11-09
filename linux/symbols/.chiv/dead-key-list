@@ -1,0 +1,79 @@
+X11/XKB dead-key keysyms :
+ 
+dead_grave
+dead_acute
+dead_circumflex
+dead_tilde
+dead_macron
+dead_breve
+dead_abovedot
+dead_diaeresis
+dead_abovering
+dead_doubleacute
+dead_caron
+dead_cedilla
+dead_ogonek
+dead_iota
+dead_voiced_sound
+dead_semivoiced_sound
+dead_belowdot
+dead_hook
+dead_horn
+dead_stroke
+dead_abovecomma
+dead_abovereversedcomma
+dead_doublegrave
+dead_belowring
+dead_belowmacron
+dead_belowcircumflex
+dead_belowtilde
+dead_belowbreve
+dead_belowdiaeresis
+dead_invertedbreve
+dead_belowcomma
+dead_currency
+dead_a
+dead_A
+dead_e
+dead_E
+dead_i
+dead_I
+dead_o
+dead_O
+dead_u
+dead_U
+dead_small_schwa
+dead_capital_schwa
+dead_greek
+dead_lowline
+dead_aboveverticalline
+dead_belowverticalline
+dead_longsolidusoverlay
+
+Common Unicode combining-mark equivalents include:
+
+dead_grave          → U+0300 COMBINING GRAVE ACCENT
+dead_acute          → U+0301 COMBINING ACUTE ACCENT
+dead_circumflex     → U+0302 COMBINING CIRCUMFLEX ACCENT
+dead_tilde          → U+0303 COMBINING TILDE
+dead_macron         → U+0304 COMBINING MACRON
+dead_breve          → U+0306 COMBINING BREVE
+dead_abovedot       → U+0307 COMBINING DOT ABOVE
+dead_diaeresis      → U+0308 COMBINING DIAERESIS
+dead_abovering      → U+030A COMBINING RING ABOVE
+dead_doubleacute    → U+030B COMBINING DOUBLE ACUTE ACCENT
+dead_caron          → U+030C COMBINING CARON
+dead_cedilla        → U+0327 COMBINING CEDILLA
+dead_ogonek         → U+0328 COMBINING OGONEK
+dead_belowdot       → U+0323 COMBINING DOT BELOW
+dead_horn           → U+031B COMBINING HORN
+dead_abovecomma     → U+0313 COMBINING COMMA ABOVE
+dead_doublegrave    → U+030F COMBINING DOUBLE GRAVE ACCENT
+dead_belowring      → U+0325 COMBINING RING BELOW
+dead_belowmacron    → U+0331 COMBINING MACRON BELOW
+dead_belowcircumflex→ U+032D COMBINING CIRCUMFLEX ACCENT BELOW
+dead_belowtilde     → U+0330 COMBINING TILDE BELOW
+dead_belowbreve     → U+032E COMBINING BREVE BELOW
+dead_belowdiaeresis → U+0324 COMBINING DIAERESIS BELOW
+dead_invertedbreve  → U+0311 COMBINING INVERTED BREVE
+dead_belowcomma     → U+0326 COMBINING COMMA BELOW
